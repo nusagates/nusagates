@@ -1,5 +1,13 @@
 # [![Ahmad Budairi Header](https://raw.githubusercontent.com/nusagates/nusagates/main/header1.png)](https://bloggersejoli.com)
-### Hi there👋 My name is Ahmad Budairi. I came from Indonesia.
+<p align='center'>
+<a href="https://twitter.com/nusagates"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://instagram.com/nusagates"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
+</p>
+Hey there 👋,
+I'm a programmer who likes to write on BloggerSejoli.com, Skutik.com, or Nusagates.com to fill my spare time and hobbies
+
+
+
 
 <!--
 **nusagates/nusagates** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
