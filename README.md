@@ -1,4 +1,4 @@
-# [![Ahmad Budairi Header](https://raw.githubusercontent.com/nusagates/nusagates/main/header.png)](https://bloggersejoli.com)
+# [![Ahmad Budairi Header](https://raw.githubusercontent.com/nusagates/nusagates/main/header1.png)](https://bloggersejoli.com)
 ### Hi there👋 My name is Ahmad Budairi. I came from Indonesia.
 
 <!--
